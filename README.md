@@ -1,0 +1,2 @@
+# Enterprise-Design-Thinking-Cloud-Computing-Project-Cloud-Garage-Methodology-
+In this project exercise, we used EDT framework on Mural tool to help a luxury fashion brand to incorporate AR technology on hybrid clouds to enhance their online customers shopping experience in view of the Covid-19 restriction on border closure, where their loyal group customers are not able to shop in their flagship stores at Paris, NYC &amp; Milan.  
